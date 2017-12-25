@@ -1,4 +1,4 @@
 Table of Contents
 -----------------
 
-* [Blog](/blog)
+* [Blog](https://mologie.github.io/blog)
